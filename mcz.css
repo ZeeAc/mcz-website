@@ -1,0 +1,10 @@
+body{
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    background-size: cover;
+    background-position: center;
+    background-image: url(IMG-20250525-WA0037.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+    }
