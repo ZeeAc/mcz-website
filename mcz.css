@@ -1,4 +1,10 @@
+.body {
+       background - colour : brown
+};
+       
+
 /* Overall page container */
+
 .container {
     max-width: 900px;
     margin: auto;
